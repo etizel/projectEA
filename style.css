@@ -1,0 +1,65 @@
+body h1, ul, li, dt, dd, dl {
+    margin: 0px;
+    padding: 0px;
+
+}
+ img {
+    display: block;
+    border-radius: 200px;
+    max-width: 200px;
+}
+/*ul{
+    list-style: none;
+}
+body{
+    background: #faf6;
+    color: #222;
+    -webkit-font-smoothing: antialiased;
+    display: flexbox;
+}
+
+.central-class {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    background: #fb5;
+}
+
+.central-class ul {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 10px;
+}
+
+
+.js .js-accordion dd { 
+    display: none;
+}
+
+.js-accordion dt::after {
+    content: '⬎';
+    margin-left: 10px;
+
+}
+
+.js-accordion dt.active::after {
+    content:'⬏';
+    margin-left: 10px;
+}
+
+.js-accordion dd.active {
+    display: block;
+    animation: slideDown .5s forwards;
+}
+
+
+@keyframes slideDown {
+    from {
+        opacity: 0;
+        max-height: 0%;
+    }
+
+    to {
+        max-height: 200px;
+        opacity: 1;
+    }
+} */
