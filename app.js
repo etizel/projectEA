@@ -41,8 +41,8 @@
 
 
  
-const tabMenu = document.querySelectorAll('.js-tabmenu li');
-const tabConent = document.querySelectorAll('.js-tabcontent section');
+// const tabMenu = document.querySelectorAll('.js-tabmenu li');
+// const tabConent = document.querySelectorAll('.js-tabcontent section');
 
 
 
@@ -57,14 +57,21 @@ const tabConent = document.querySelectorAll('.js-tabcontent section');
 // })
 
 
-const aboutSection = document.querySelectorAll('.about');
+// const aboutSection = document.querySelectorAll('.about');
 
 
-function activeTab(active) {
-    console.log(active.getBoundingClientRect)
-}
+// function activeTab(active) {
+//     console.log(active.getBoundingClientRect)
+// }
 
 
-aboutSection.forEach((event) => {
-    event.addEventListener('click', activeTab)
-})
+// aboutSection.forEach((event) => {
+//     event.addEventListener('click', activeTab)
+// });
+
+
+
+
+
+
+
